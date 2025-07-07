@@ -73,9 +73,11 @@ const App = () => {
 
 
               <div className="test-white text-center rounded p-6 pt-[140px]" style={{ height: '500px' }}>
-                <h1 className="earth-info p-14 pb-2 text-3xl font-semibold">The Earth: Our Dynamic Planet</h1>
-                <h4>Earth formed about 4.5 billion years ago from gas and dust left over from the formation of the Sun. It's the only known planet to support life due to its water, atmosphere, and climate. The planet's atmosphere protects us from harmful solar radiation, while its magnetic field shields the surface from space weather. Continents move slowly over time due to plate tectonics, reshaping the land. Earth’s orbit and axial tilt also create the changing seasons we experience annually.</h4>
+                <h1 className="earth-info p-14 pb-2 text-3xl font-semibold">The Crab Nebula: A Supernova's Aftermath</h1>
+                <h4>The Crab Nebula, located about 6,500 light-years away in the constellation Taurus, is the remnant of a supernova explosion observed by Earth in 1054 AD. This nebula is composed of expanding clouds of gas and dust, energized by the neutron star (or pulsar) at its center, which rotates rapidly, emitting powerful beams of radiation. The intricate filaments seen in the nebula are composed of hydrogen, helium, and other elements, representing the material ejected during the star's explosive death. The Crab Nebula continues to fascinate astronomers as it provides valuable insights into stellar evolution and supernova mechanics.git</h4>
               </div>
+              
+           
 
 
 
@@ -105,8 +107,9 @@ const App = () => {
 
 
               <div className="test-white text-center rounded p-6 pt-[120px]" style={{ height: '500px' }}>
-                <h1 className="earth-info p-14 pb-2 text-3xl font-semibold">The Earth: Our Dynamic Planet</h1>
-                <h4>Earth formed about 4.5 billion years ago from gas and dust left over from the formation of the Sun. It's the only known planet to support life due to its water, atmosphere, and climate. The planet's atmosphere protects us from harmful solar radiation, while its magnetic field shields the surface from space weather. Continents move slowly over time due to plate tectonics, reshaping the land. Earth’s orbit and axial tilt also create the changing seasons we experience annually.</h4>
+                <h1 className="earth-info p-14 pb-2 text-3xl font-semibold">
+                Helix Nebula: The Eye of God</h1>
+                <h4>The Helix Nebula, located about 650 light-years away in the constellation Aquarius, is a planetary nebula formed from the outer layers of a dying star. This nebula, often referred to as the "Eye of God" due to its striking appearance, is the result of a star shedding its outer layers as it transitions into a white dwarf. The colorful gas and dust are illuminated by the star's ultraviolet radiation, creating a glowing halo. Over time, this nebula will disperse, leaving only the white dwarf behind, marking the final stages of the star's life cycle.</h4>
               </div>
 
 
